@@ -2,13 +2,13 @@ Critique Blog (Demo Project)
 This is a Full Stack React & Django Web App.
 
 Dependancies
-NPM
-Python
-Django
-Axios
-React
-Vite
-Tailwind CSS
+- NPM
+- Python
+- Django
+- Axios
+- React
+- Vite
+- Tailwind CSS
 
 How to Run Critique
 1. Download Zipped project
